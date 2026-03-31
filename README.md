@@ -13,5 +13,5 @@ How to Use
 
 3. Making predictions
 3.1 Go to the prediction page on the UI
-3.2 Upload an audio file or a spectrogram image you want to analyze
+3.2 Upload an audio file or a spectrogram image(cough sound only) you want to analyze
 3.3 Click the process button to run the prediction
